@@ -1,0 +1,23 @@
+_repo: In-a-Yellow-Wood_66940
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vidal, Gore
+    alias: Vidal, Eugene Luther
+    birthdate: 1925
+    deathdate: 2012
+    gutenberg_agent_id: '53919'
+    url: http://www.gutenberg.org/2009/agents/53919
+    wikipedia: https://en.wikipedia.org/wiki/Gore_Vidal
+description: ''
+gutenberg_issued: '2021-12-13'
+identifiers:
+  gutenberg: '66940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In a Yellow Wood
+url: http://www.gutenberg.org/ebooks/66940
